@@ -1,5 +1,7 @@
 # Groovy DSL Quickstart
 
+[![Groovy DSL Quickstart](https://img.youtube.com/vi/i9pNYW1Pg9A/0.jpg)](https://www.youtube.com/watch?v=i9pNYW1Pg9A)
+
 ## Used Groovy version
 
 ```
